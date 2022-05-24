@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maryam22
 - 👀 I’m interested in .Net and JavaScript
 - 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on .Net Developer
+- 💞️ I’m looking to 
 - 📫 How to reach me MaryamBar22@gmail.com
 
 <!---
